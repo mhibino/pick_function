@@ -15,7 +15,6 @@ function has(item, ingredient) {
 	return item.indexOf(ingredient) >= 0;
 }
 
-
 // Version-A: Basic pick function
 function pickA(collection) { 
 	// collection is only essential parameter
